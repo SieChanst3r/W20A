@@ -32,5 +32,6 @@ if userChoice == "a":
     createPost()
 elif userChoice == "b":
     allPosts()
+
 else:
     print("Not a valid selection")
